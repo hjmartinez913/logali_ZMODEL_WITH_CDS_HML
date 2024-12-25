@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD - Custom Detail'
+define service ZCDS_CUSTOM_DETAIL_USER {
+  expose ZCDS_CUSTOM_DETAIL_HML as Customer;
+}
